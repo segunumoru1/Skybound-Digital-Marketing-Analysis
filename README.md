@@ -37,15 +37,21 @@ The objective of this project is to conduct a thorough analysis of past digital 
 - End Date: End date of the campaign.
 - Cost: the cost of a marketing campaign
 
+![Dashboard Design](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-0.jpg)
 
-![Dashboard Design](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-0.jpg)
+![Campaign Performance Analysis](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-1.jpg)
 
-![Athlete Analysis Report](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-1.jpg)
+![Audience Segmentation and Targeting Analysis](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-2.jpg)
 
-![Country and Season Demography Analysis](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-2.jpg)
+![Time Series Analysis](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-3.jpg)
 
-![Game and Team Analysis](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-3.jpg)
+![Channel Effectiveness and Conversion Analysis](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-4.jpg)
 
+![Geography Analysis](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-5.jpg)
+
+![Campaign ROI and Profitability Analysis](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-6.jpg)
+
+![Executive Summary](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis/blob/main/Skybound%20Strategies%20Analysis-images-7.jpg)
 
 
 ## Methodology
@@ -65,6 +71,7 @@ The objective of this project is to conduct a thorough analysis of past digital 
 - Exploratory Data Analysis (EDA) 📊
 - Data Visualization 📈
 - Statistical Analysis 📊
+- Time Series Analysis ⏳
 - Dashboard Design and Development 📊📈
 
 ## Tools Used
